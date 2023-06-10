@@ -12,7 +12,7 @@
 
 1. Запустите программу в папке __find_token_telegram__
 `python Find_out_the_token_telegram.py`
-2. Перейдите по ссылке бота в телеграме: [ссылка на телеграм бота](t.me/test2killrealbot)
+2. Перейдите по ссылке бота в телеграме: [t.me/test2killrealbot](t.me/test2killrealbot)
 3. Напишите __start__ отправьте. После чего напишеите __id__ и отправьте
 
 ## Настройка самого бота discord
