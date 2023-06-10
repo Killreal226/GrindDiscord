@@ -1,0 +1,6 @@
+Token girl:
+Token boy:
+channel id:
+guild id:
+pause:
+Your_telegram_id:
